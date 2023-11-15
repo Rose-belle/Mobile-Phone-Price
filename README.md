@@ -1,10 +1,10 @@
 # Mobile-Phone-Price Prediction Using Linear Regression.
 
-##Overview
+## Overview
 
 This project aims to predict mobile phone prices based on various features using Linear Regression. Linear Regression is a statistical method that models the relationship between a dependent variable and one or more independent variables.
 
-##Dataset
+##  Dataset
 The dataset used for this project contains information about mobile phone
 - Brand
 - RAM
